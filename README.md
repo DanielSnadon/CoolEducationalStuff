@@ -11,9 +11,9 @@
 <img src="https://github.com/DanielSnadon/CoolEducationalStuff/blob/main/Images/FATextCode.png" width="100%"/>
 
 ### A psychology lecture converted into HTML format.
-<img src="https://github.com/DanielSnadon/CoolEducationalStuff/blob/main/Images/HTMLecture.png"
+<img src="https://github.com/DanielSnadon/CoolEducationalStuff/blob/main/Images/HTMLecture.png" width="100%"/>
 
 ### Drawing on a notepad of differential equations.
-<img src="https://github.com/DanielSnadon/CoolEducationalStuff/blob/main/Images/ConspectArt.png"
+<img src="https://github.com/DanielSnadon/CoolEducationalStuff/blob/main/Images/ConspectArt.png" width="100%"/>
 
 © 2025 [DanielSnadon](https://github.com/DanielSnadon) All rights reserved.
